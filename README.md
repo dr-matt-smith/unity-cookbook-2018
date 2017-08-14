@@ -3,6 +3,6 @@ Contents - links to chapters for 2018 Unity Cookbook
 
 Assets and Completed projects repos can be found:
 
-**Chapter 1** https://github.com/dr-matt-smith/unity-cookbook-2018-ch01
-**Chapter 2** https://github.com/dr-matt-smith/unity-cookbook-2018-ch02
+- **Chapter 1** https://github.com/dr-matt-smith/unity-cookbook-2018-ch01
+- **Chapter 2** https://github.com/dr-matt-smith/unity-cookbook-2018-ch02
 
