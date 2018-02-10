@@ -8,6 +8,9 @@ Assets and Completed projects repos can be found:
 - **Chapter 3** https://github.com/dr-matt-smith/unity-cookbook-2018-ch03
 - **Chapter 4** https://github.com/dr-matt-smith/unity-cookbook-2018-ch04
 - **Chapter 5** https://github.com/dr-matt-smith/unity-cookbook-2018-ch05
+
 - **Chapter 11** https://github.com/dr-matt-smith/unity-cookbook-2018-ch11
+- **Chapter 12** https://github.com/dr-matt-smith/unity-cookbook-2018-ch12
+
 - **Chapter 17** https://github.com/dr-matt-smith/unity-cookbook-2018-ch17
 
