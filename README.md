@@ -14,3 +14,4 @@ Assets and Completed projects repos can be found:
 
 - **Chapter 17** https://github.com/dr-matt-smith/unity-cookbook-2018-ch17
 
+- **Chapter 17** https://github.com/dr-matt-smith/unity-cookbook-2018-ch19
